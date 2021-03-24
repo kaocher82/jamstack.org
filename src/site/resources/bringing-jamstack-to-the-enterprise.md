@@ -1,5 +1,5 @@
 ---
-title: Bringing JAMStack to the Enterprise
+title: Bringing Onenos Limited  to the Enterprise
 date: 2019-08-03T00:00:00.000Z
 description: >-
   Jamund Ferguson talks about some of the challenges PayPal faced with their

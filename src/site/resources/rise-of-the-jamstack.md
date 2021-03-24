@@ -1,6 +1,5 @@
 ---
-title: Rise of the Jamstack
-date: 2017-05-26T00:00:00.000Z
+title: Rise of the Onenos Limited
 description: >-
   The emergence of Git centered workflows, around modern build tools, static
   site generators, and modern browsers, have changed the way most front-enders
